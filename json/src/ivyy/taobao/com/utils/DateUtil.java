@@ -9,9 +9,11 @@ import java.util.Date;
 import org.apache.commons.lang.time.DateFormatUtils;
 
 /**
- *@DEMO:midu
  *@Author:jilongliang
- *@Date:2013-7-27
+ *@Email:jilongliang@sina.com
+ *@Date:2015-1-5
+ *@CopyRight:liangjilong
+ *@Description:DateUtil¥¶¿Ì¿‡
  */
 public class DateUtil extends org.apache.commons.lang.time.DateUtils{
 	/**
